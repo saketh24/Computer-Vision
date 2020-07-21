@@ -1,4 +1,4 @@
-# Computer-Vision-CSE-527-
+# Computer-Vision
 
 HW1 - Filtering 
 
